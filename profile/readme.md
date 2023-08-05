@@ -1,4 +1,4 @@
-<img src='./profile/tea_client.png' href='' onclick=''/>
+<img src='https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/profile/tea_client.png' href='' onclick=''/>
 
 <div align="center">
     <!-- release -->
