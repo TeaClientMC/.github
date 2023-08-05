@@ -23,7 +23,7 @@
 
 *A Simple 1.8.9-1.20 Client that adds features that are not commonly found in other clinet but are very useful*
 
-**For Beta Releases, Suggestions, and Support join the discord! https://discord.gg/MDTEAjbNw8**
+**For Beta Releases, Suggestions, and Support join the discord! https://discord.gg/teaclient**
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
