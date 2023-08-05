@@ -2,8 +2,8 @@
 
 <div align="center">
     <!-- release -->
-    <a href="https://github.com/MrFast-js/SkyblockFeatures/releases/latest" target="_blank">
-        <img src="https://img.shields.io/github/v/release/MrFast-js/SkyblockFeatures?include_prereleases&label=Latest&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="release">
+    <a href="https://github.com/TeaclientMinecraft/teaclient/releases/latest" target="_blank">
+        <img src="https://img.shields.io/github/v/release/teaclientMinecraft/teaclient?include_prereleases&label=Latest&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="release">
     </a>&nbsp;
     <!-- lines -->
     <a href="https://github.com/MrFast-js/SkyblockFeatures/graphs/code-frequency" target="_blank">
