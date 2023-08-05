@@ -11,7 +11,7 @@
     </a>&nbsp;
     <!-- discord -->
     <a href="https://discord.gg/UVXCPDAmJK" target="_blank">
-        <img src="https://img.shields.io/discord/1004750886985277583?label=Discord&logo=Discord&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="discord">
+        <img src="https://img.shields.io/discord/1063834911833854012?label=Discord&logo=Discord&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="discord">
     </a>&nbsp;
     <!-- downloads -->
     <a href="https://github.com/MrFast-js/SkyblockFeatures/releases" target="_blank">
