@@ -7,7 +7,7 @@
     </a>&nbsp;
     <!-- lines -->
     <a href="https://github.com/MrFast-js/SkyblockFeatures/graphs/code-frequency" target="_blank">
-        <img src="https://img.shields.io/github/license/MrFast-js/SkyblockFeatures?label=License&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="lines">
+        <img src="https://img.shields.io/github/license/TeaClientminecraft/teaclient?label=License&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="lines">
     </a>&nbsp;
     <!-- discord -->
     <a href="https://discord.gg/teaclient" target="_blank">
