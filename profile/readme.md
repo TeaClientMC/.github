@@ -1,4 +1,4 @@
-<img src='./tea_client.png' href='' onclick=''/>
+<img src='./profile/tea_client.png' href='' onclick=''/>
 
 <div align="center">
     <!-- release -->
