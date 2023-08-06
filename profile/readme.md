@@ -21,7 +21,7 @@
 </div>
 <br><br>
 
-<h3 align="center">A minecraft client made Open-Sourced:</h3>
+<h3 align="center">A minecraft client made Open-Sourced</h3>
 
 **For Beta Releases, Suggestions, and Support join the discord! https://discord.gg/teaclient**
 
