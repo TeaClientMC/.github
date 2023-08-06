@@ -17,7 +17,8 @@
     <a href="https://github.com/MrFast-js/SkyblockFeatures/releases" target="_blank">
         <img src="https://img.shields.io/badge/Downloads-3.7k-blue?label=Downloads&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="downloads">
 <!--         <img src="https://img.shields.io/github/downloads/MrFast-js/SkyblockFeatures/total?label=Downloads&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="downloads"> -->
-    </a>
+    </a> 
+<p align="left"> <a href="https://twitter.com/teaclientmc" target="blank"><img src="https://img.shields.io/twitter/follow/teaclientmc?logo=twitter&style=for-the-badge" alt="teaclientmc" /></a> </p>
 </div>
 <br><br>
 
@@ -26,10 +27,6 @@
 **For Beta Releases, Suggestions, and Support join the discord! https://discord.gg/teaclient**
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
-<p align="left"> <a href="https://twitter.com/teaclientmc" target="blank"><img src="https://img.shields.io/twitter/follow/teaclientmc?logo=twitter&style=for-the-badge" alt="teaclientmc" /></a> </p>
-
 <h3 align="left">Connect with us:</h3><p align="left"><a href="https://twitter.com/teaclientmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teaclientmc" height="30" width="40" /></a><a href="https://www.youtube.com/@teaclientmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@teaclientmc" height="30" width="40" /></a><a href="https://discord.gg/discord.gg/teaclient" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/teaclient" height="30" width="40" /></a></p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
