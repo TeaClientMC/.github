@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/Downloads-3.7k-blue?label=Downloads&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="downloads">
 <!--         <img src="https://img.shields.io/github/downloads/MrFast-js/SkyblockFeatures/total?label=Downloads&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="downloads"> -->
     </a> 
-<p align="left"> <a href="https://twitter.com/teaclientmc" target="blank"><img src="https://img.shields.io/twitter/follow/teaclientmc?logo=twitter&style=for-the-badge" alt="teaclientmc" /></a> </p>
+<p align="middle"> <a href="https://twitter.com/teaclientmc" target="blank"><img src="https://img.shields.io/twitter/follow/teaclientmc?logo=twitter&style=for-the-badge" alt="teaclientmc" /></a> </p>
 </div>
 <br><br>
 
