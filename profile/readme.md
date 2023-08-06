@@ -21,13 +21,12 @@
 </div>
 <br><br>
 
-*A Simple 1.8.9-1.20 Client that adds features that are not commonly found in other clinet but are very useful*
+<h3 align="center">A minecraft client made Open-Sourced:</h3>
 
 **For Beta Releases, Suggestions, and Support join the discord! https://discord.gg/teaclient**
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h3 align="center">A minecraft client made Open-Sourced</h3>
 
 <p align="left"> <a href="https://twitter.com/teaclientmc" target="blank"><img src="https://img.shields.io/twitter/follow/teaclientmc?logo=twitter&style=for-the-badge" alt="teaclientmc" /></a> </p>
 
