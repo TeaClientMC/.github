@@ -26,6 +26,8 @@
 
 **For Beta Releases, Suggestions, and Support join the discord! https://discord.gg/teaclient**
 
+**THIS CLIENT IS IN A NON FINISHED STATE! I do not take responsibility for anything that happens while using it**
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/profile/dividers.png)
 <h3 align="left">Connect with us:</h3><p align="left"><a href="https://twitter.com/teaclientmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teaclientmc" height="30" width="40" /></a><a href="https://www.youtube.com/@teaclientmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@teaclientmc" height="30" width="40" /></a><a href="https://discord.gg/discord.gg/teaclient" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/teaclient" height="30" width="40" /></a></p>
 
