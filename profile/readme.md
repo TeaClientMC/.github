@@ -21,7 +21,7 @@
 <p align="middle"> <a href="https://twitter.com/teaclientmc" target="blank"><img src="https://img.shields.io/twitter/follow/teaclientmc?logo=twitter&style=for-the-badge" alt="teaclientmc" /></a> </p>
 </div>
 <br><br>
-<h1>THIS CLIENT IS IN A NON FINISHED STATE! I do not take responsibility for anything that happens while using it<h1>
+<h2>THIS CLIENT IS IN A NON FINISHED STATE! I do not take responsibility for anything that happens while using it<h2>
 <h3 align="center">A minecraft client made Open-Sourced</h3>
 
 **For Beta Releases, Suggestions, and Support join the discord! https://discord.gg/teaclient**
