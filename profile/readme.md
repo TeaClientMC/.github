@@ -14,8 +14,8 @@
         <img src="https://img.shields.io/discord/1063834911833854012?label=Discord&logo=Discord&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="discord">
     </a>&nbsp;
     <!-- downloads -->
-    <a href="https://github.com/MrFast-js/SkyblockFeatures/releases" target="_blank">
-        <img src="https://img.shields.io/badge/Downloads-3.7k-blue?label=Downloads&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="downloads">
+    <a href="https://teaclient.net/downloads" target="_blank">
+        <img src="https://img.shields.io/badge/Downloads-0-blue?label=Downloads&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="downloads">
 <!--         <img src="https://img.shields.io/github/downloads/MrFast-js/SkyblockFeatures/total?label=Downloads&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="downloads"> -->
     </a> 
 <p align="middle"> <a href="https://twitter.com/teaclientmc" target="blank"><img src="https://img.shields.io/twitter/follow/teaclientmc?logo=twitter&style=for-the-badge" alt="teaclientmc" /></a> </p>
