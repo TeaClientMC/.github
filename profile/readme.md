@@ -6,6 +6,9 @@
         <img src="https://img.shields.io/github/v/release/teaclientMinecraft/teaclient?include_prereleases&label=Latest&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="release">
     </a>&nbsp;
     <!-- lines -->
+      <a href="https://github.com/TeaClientminecraft/teaclient/graphs/code-frequency" target="_blank">
+        <img src="https://img.shields.io/github/license/TeaClientminecraft/.github?label=License&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="lines">
+    </a>&nbsp;
     <!-- discord -->
     <a href="https://discord.gg/95J7ndJygG" target="_blank">
         <img src="https://img.shields.io/discord/1063834911833854012?label=Discord&logo=Discord&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="discord">
