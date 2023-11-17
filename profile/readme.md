@@ -38,7 +38,7 @@
 **Big Thanks to the GreatNet Hosting for partnering us**
 
 
-**Use Code: "Tea" At the next checkout for 20% off**
+**Use Code: "Tea" At the next checkout for a discount**
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/profile/dividers.png)
