@@ -1,47 +1,45 @@
-<img src='https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/profile/minecraft_title.png' href='' onclick=''/>
+<!-- Inputs -->
 
-<div align="center">
-    <!-- release -->
-    <a href="https://github.com/TeaclientMinecraft/teaclient/releases/latest" target="_blank">
-        <img src="https://img.shields.io/github/v/release/teaclientMinecraft/teaclient?include_prereleases&label=Latest&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="release">
-    </a>&nbsp;
-    <!-- lines -->
-      <a href="https://github.com/TeaClientminecraft/teaclient/graphs/code-frequency" target="_blank">
-        <img src="https://img.shields.io/github/license/TeaClientminecraft/.github?label=License&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="lines">
-    </a>&nbsp;
-    <!-- discord -->
-    <a href="https://discord.gg/95J7ndJygG" target="_blank">
-        <img src="https://img.shields.io/discord/1063834911833854012?label=Discord&logo=Discord&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="discord">
-    </a>&nbsp;
-    <!-- downloads -->
-    <a href="https://teaclient.net/downloads" target="_blank">
-        <img src="https://img.shields.io/badge/Downloads-0-blue?label=Downloads&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="downloads">
-<!--         <img src="https://img.shields.io/github/downloads/MrFast-js/SkyblockFeatures/total?label=Downloads&logo=Github&logoColor=FFFFFF&color=04aed9&style=for-the-badge" alt="downloads"> -->
-    </a> 
-<p align="middle"> <a href="https://twitter.com/teaclientmc" target="blank"><img src="https://img.shields.io/twitter/follow/teaclientmc?logo=twitter&style=for-the-badge" alt="teaclientmc" /></a> </p>
-</div>
+[discord]: https://teaclient.net/discord
+[issues]: https://github.com/teaclientmc/client/issues
+[releases]: https://github.com/teaclientmc/client/releases/latest
+[client]: https://github.com/teaclient/client
+[roadmmap]: https://tree.taiga.io/project/eveeifyeve-teaclient/timeline
+[greatnetDiscount]: https://billing.greatnethosting.com/register?ref=teaclient
+
+
+![TeaClient Minecraft Text](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/minecraft_title.png)
+
+<p align="center">
+<!-- Issues, Stars, Releases & Discord -->
+
+[![Stars](https://img.shields.io/github/stars/teaclientmc?style=for-the-badge&logo=starship&color=7d1fdb&logoColor=D9E0EE&labelColor=302D41)][client]
+[![Releases](https://img.shields.io/github/release/teaclientmc/client.svg?style=for-the-badge&logo=github&color=7d1fdb&logoColor=D9E0EE&labelColor=302D41)][releases]
+[![Issues](https://img.shields.io/github/issues/teaclientmc/client?style=for-the-badge&logo=gitbook&color=7d1fdb&logoColor=D9E0EE&labelColor=302D41)][issues]
+[![Discord](https://img.shields.io/discord/1063834911833854012?style=for-the-badge&logo=discord&color=7d1fdb&logoColor=D9E0EE&labelColor=302D41)][discord]
+
+
+</p>
 <br><br>
-<h3 align="center">A minecraft client made Open-Sourced</h3>
-
-**For Beta Releases, Suggestions, and Support join the discord! https://discord.gg/teaclient**
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/profile/dividers.png)
+<!-- What is TeaClient? -->
+<h2 align="center">An OpenSourced Minecraft Client Project</h2>
 
 
+![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/profile/dividers.png)
+![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/profile/dividers.png)
+![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/profile/dividers.png)
-# RoadMap
+![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
+# Development RoadMap
 
-Our roadmap is available at [Taiga.io](https://tree.taiga.io/project/eveeifyeve-teaclient/timeline)
+Our Devloper roadmap is available at [Taiga.io](https://tree.taiga.io/project/eveeifyeve-teaclient/timeline)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/profile/dividers.png)
+![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
 
 
 
@@ -52,7 +50,7 @@ Our roadmap is available at [Taiga.io](https://tree.taiga.io/project/eveeifyeve-
 **Big Thanks to the GreatNet Hosting for partnering with us**
 
 
-**Use Code: "Tea" At the next checkout for a discount**
+**Use Code: ["TeaClient" At the next checkout][greatnetDiscount] for a 20% DISCOUNT!**
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/profile/dividers.png)
+![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
