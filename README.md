@@ -1,4 +1,12 @@
-# The official ReadMe file
-<img src="https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/profile/dividers.png">
+# Offical Github Readme
 
-The Official Page of the TeaClient Project
+
+Official Github Page For An OpenSourced Client Project.
+
+<img src="https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png">
+
+## Features:
+
+- Badges to show release
+- 
+- 
