@@ -37,7 +37,7 @@
 ![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
 # Development RoadMap
 
-Our Devloper roadmap is available at [Taiga.io](https://tree.taiga.io/project/eveeifyeve-teaclient/timeline)
+Our Devloper roadmap is available at [Github Projects](https://teaclient.net/roadmap)
 
 ![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
 
@@ -45,7 +45,7 @@ Our Devloper roadmap is available at [Taiga.io](https://tree.taiga.io/project/ev
 
 # Minecraft Server Hosting: 
 
-<img src="https://cdn.discordapp.com/attachments/1165695288439214120/1165701318149689394/GNblue.png?ex=6547cef3&is=653559f3&hm=83e5b370c3adb7fb180450c696634bc8c45c760c01a1a856b6c3adac5c0852cb&" alt="Logo" width="256" height="128">
+<img src="https://greatnethosting.com/assets/GNblue.png" alt="Logo" width="256" height="128">
 
 **Big Thanks to the GreatNet Hosting for partnering with us**
 
