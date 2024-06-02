@@ -45,7 +45,7 @@ Our Devloper roadmap is available at [Github Projects](https://teaclient.net/roa
 
 # Minecraft Server Hosting: 
 
-<img src="https://greatnethosting.com/assets/GNblue.png" alt="Logo" width="256" height="128">
+<img src="../assets/GNblue.png" alt="Logo" width="256" height="128">
 
 **Big Thanks to the GreatNet Hosting for partnering with us**
 
