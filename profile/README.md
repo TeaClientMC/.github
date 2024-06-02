@@ -1,12 +1,3 @@
-<!-- Inputs -->
-
-[discord]: https://teaclient.net/discord
-[issues]: https://github.com/teaclientmc/client/issues
-[releases]: https://github.com/teaclientmc/client/releases/latest
-[client]: https://github.com/teaclient/client
-[roadmmap]: https://tree.taiga.io/project/eveeifyeve-teaclient/timeline
-[greatnetDiscount]: https://billing.greatnethosting.com/register?ref=teaclient
-
 
 ![TeaClient Minecraft Text](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/minecraft_title.png)
 
@@ -19,19 +10,24 @@
 [![Discord](https://img.shields.io/discord/1063834911833854012?style=for-the-badge&logo=discord&color=7d1fdb&logoColor=D9E0EE&labelColor=302D41)][discord]
 
 
+[discord]: https://teaclient.net/discord
+[issues]: https://github.com/teaclientmc/client/issues
+[releases]: https://github.com/teaclientmc/client/releases/latest
+[client]: https://github.com/teaclient/client
+
 </p>
 <br><br>
 <!-- What is TeaClient? -->
 <h2 align="center">An OpenSourced Minecraft Client Project</h2>
 
 
-![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
+<!-- ![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
 
 
 ![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
 
 
-![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
+![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png) -->
 
 
 ![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
@@ -39,19 +35,29 @@
 
 Our Devloper roadmap is available at [Github Projects](https://teaclient.net/roadmap)
 
+**Also wanna know the progress when TeaClient is comming out?? then check out [here](https://github.com/orgs/TeaClientMC/discussions/2).**
+
+
 ![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
 
 
 
-# Minecraft Server Hosting: 
+# Partners:
 
 
 ![Logo](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/GNblue.png)
 
+Greatnet hosting is a cheep minecraft hosting service that host minecraft servers as cheep as €
+
 **Big Thanks to the GreatNet Hosting for partnering with us**
 
 
-**Use Code: ["TeaClient" At the next checkout][greatnetDiscount] for a 20% DISCOUNT!**
+**Use Code: ["TeaClient" At the next checkout][GreatnetDiscount] for a 20% DISCOUNT!**
 
+*Feel free to checkout there discord [here]()*
+
+
+[GreatnetDiscord]: https://greatnethosting.com//discord
+[GreatnetDiscount]: https://billing.greatnethosting.com/register?ref=teaclient
 
 ![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
