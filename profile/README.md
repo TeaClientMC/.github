@@ -18,7 +18,7 @@
 </p>
 <br><br>
 <!-- What is TeaClient? -->
-<h2 align="center">An OpenSourced Minecraft Client Project</h2>
+<h2 align="center">A Semi Open-Source QQOL Modpack for modern versions of Minecraft</h2>
 
 
 <!-- ![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
