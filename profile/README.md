@@ -40,24 +40,28 @@ Our Devloper roadmap is available at [Github Projects](https://teaclient.net/roa
 
 ![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
 
+# Our Networks: 
+Contains all of our partner/offical networks.
+
+# Our Official Networks
 
 
-# Partners:
+- [Minecraft Server](https://discord.gg/NVQ3FAfsWw) This community consists of a Minecraft server and just fun.
 
+# Our Unofficial Networks: 
+- Hypixel Guild (Requires you to ./g join TeaClient to get link) This Community consists our hypixel guild for all of the fun on hypixel.
 
-![Logo](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/GNblue.png)
+## Partners networks:
 
-Greatnet hosting is a cheep minecraft hosting service that host minecraft servers as cheep as €
+- Surfhosting 
+ - [Website](<https://surfhosting.co>)
+ - [Discord](<https://discord.gg/surfhosting>)
 
-**Big Thanks to the GreatNet Hosting for partnering with us**
+## Discord Server partners:
+- [FOXSMP](<https://discord.com/invite/SpAxNQWx>)  Lifesteal Minecraft server with custom items.
 
+## Minecraft Server Partners:
+NONE as of right now.
 
-**Use Code: ["TeaClient" At the next checkout][GreatnetDiscount] for a 20% DISCOUNT!**
-
-*Feel free to checkout there discord [here]()*
-
-
-[GreatnetDiscord]: https://greatnethosting.com//discord
-[GreatnetDiscount]: https://billing.greatnethosting.com/register?ref=teaclient
 
 ![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
