@@ -43,12 +43,12 @@ Our Devloper roadmap is available at [Github Projects](https://teaclient.net/roa
 # Our Networks: 
 Contains all of our partner/offical networks.
 
-# Our Official Networks
+## Our Official Networks
 
 
 - [Minecraft Server](https://discord.gg/NVQ3FAfsWw) This community consists of a Minecraft server and just fun.
 
-# Our Unofficial Networks: 
+## Our Unofficial Networks: 
 - Hypixel Guild (Requires you to ./g join TeaClient to get link) This Community consists our hypixel guild for all of the fun on hypixel.
 
 ## Partners networks:
