@@ -3,17 +3,13 @@
 
 <p align="center">
 <!-- Issues, Stars, Releases & Discord -->
-
-[![Stars](https://img.shields.io/github/stars/teaclientmc?style=for-the-badge&logo=starship&color=7d1fdb&logoColor=D9E0EE&labelColor=302D41)][client]
-[![Releases](https://img.shields.io/github/release/teaclientmc/client.svg?style=for-the-badge&logo=github&color=7d1fdb&logoColor=D9E0EE&labelColor=302D41)][releases]
-[![Issues](https://img.shields.io/github/issues/teaclientmc/client?style=for-the-badge&logo=gitbook&color=7d1fdb&logoColor=D9E0EE&labelColor=302D41)][issues]
+  
 [![Discord](https://img.shields.io/discord/1063834911833854012?style=for-the-badge&logo=discord&color=7d1fdb&logoColor=D9E0EE&labelColor=302D41)][discord]
 
 
-[discord]: https://teaclient.net/discord
-[issues]: https://github.com/teaclientmc/client/issues
-[releases]: https://github.com/teaclientmc/client/releases/latest
-[client]: https://github.com/teaclient/client
+[discord]: https://teaclient.com/discord
+
+
 
 </p>
 <br><br>
