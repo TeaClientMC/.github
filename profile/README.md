@@ -33,9 +33,9 @@
 ![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
 # Development RoadMap
 
-Our Devloper roadmap is available at [Github Projects](https://teaclient.net/roadmap)
+**Progress when TeaClient is comming out?? then check out [here](https://github.com/orgs/TeaClientMC/discussions/2).**
 
-**Also wanna know the progress when TeaClient is comming out?? then check out [here](https://github.com/orgs/TeaClientMC/discussions/2).**
+else you can find updates on our [discord][discord]
 
 
 ![divider](https://raw.githubusercontent.com/TeaclientMinecraft/.github/main/assets/dividers.png)
@@ -52,13 +52,7 @@ Contains all of our partner/offical networks.
 - Hypixel Guild (Requires you to ./g join TeaClient to get link) This Community consists our hypixel guild for all of the fun on hypixel.
 
 ## Partners networks:
-
-- Surfhosting 
- - [Website](<https://surfhosting.co>)
- - [Discord](<https://discord.gg/surfhosting>)
-
-## Discord Server partners:
-- [FOXSMP](<https://discord.com/invite/SpAxNQWx>)  Lifesteal Minecraft server with custom items.
+NONE as of right now.
 
 ## Minecraft Server Partners:
 NONE as of right now.
