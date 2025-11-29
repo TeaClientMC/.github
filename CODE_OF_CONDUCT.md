@@ -1,6 +1,6 @@
 # The Code of Conduct ([Modified Rust Code Of Conduct][rust_coc])
 
-A version of this document [can be found online](https://teaclient.net/opensource#code-of-conduct).
+A version of this document [can be found online](https://teaclient.com/opensource#code-of-conduct).
 
 ## Conduct
 
@@ -33,5 +33,5 @@ And if someone takes issue with something you said or did, resist the urge to be
 
 *Adapted from the [Node.js Policy on Trolling](http://blog.izs.me/post/30036893703/policy-on-trolling) as well as the [Contributor Covenant v1.3.0](https://www.contributor-covenant.org/version/1/3/0/).*
 
-[mod_team]: https://teaclient.net/opensource#moderation
+[mod_team]: https://teaclient.com/opensource#moderation
 [rust_coc]: https://www.rust-lang.org/conduct.html
